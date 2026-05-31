@@ -39,11 +39,11 @@ Here's what I've been working on:
 
 ---
 
-## 🎵 Now Playing
+## Listening to: 
 
 <p align="center">
   <a href="https://open.spotify.com/user/vaibhavtripathi7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vaibhavtripathi7&width=800" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=njgmpbudm6kqhtxzo8egofj0p&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
