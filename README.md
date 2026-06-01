@@ -12,12 +12,12 @@
 
 ## About Me
 
-I'm an engineer passionate about low-level system performance, backend architectures, and AI. I think in first principles, whether I'm exploring kernel operations, dealing with C pointers, or designing scalable networking protocols.
+I'm an engineer passionate about low-level system performance, backend architectures, and AI.
 
 -  **Currently:** I'm focused on advanced system design, concurrent backend pipelines, and optimization in production systems.
 -  **What I build:** includes scalable full-stack applications, ultra-low-latency CLI tools, and AI applications.
 -  **Ask me about:** System Design, Node.js, DevOps, Reinforcement Learning, and Deep Learning.
--  **Fun fact:** I'm a Linux enthusiast (Arch/Sway), a passionate cricket player, and I always have music playing.
+-  **Fun facts:** I'm a Linux enthusiast (Arch/Sway), a passionate cricket player, and I always have music playing.
 -   All of my projects are available **[here](https://github.com/Vaibhavtripathi7?tab=repositories)**
 
 
